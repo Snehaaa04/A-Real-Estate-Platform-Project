@@ -33,7 +33,7 @@ Real-time updates for offers, requests, and deal status
 Insights on listings, negotiations, and properties sold
 
 **🛠 Tech Stack
-**Frontend: Next.js, React, Tailwind CSS
+**Frontend: TypeScript, JavaScript
 Backend: Node.js, Express.js
 Database: MongoDB
 Real-Time: Socket.io
